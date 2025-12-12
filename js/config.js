@@ -111,8 +111,24 @@ const API_SITES = {
         name: 'iKun资源'
     },
     lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '量子资源站'
+    },
+    155: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: 'AV-155资源'
+    },
+    yjzy: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: 'TV-无尽资源'
+    },
+    lzi: {
+        api: 'https://shayuapi.com/api.php/provide/vod',
+        name: 'AV-鲨鱼资源'
+    },
+    ftys: {
+        api: "https://www.fantuan.tv/api.php/provide/vod",
+        name: "饭团影视"
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
