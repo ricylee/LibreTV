@@ -128,19 +128,19 @@ const API_SITES = {
     },
     ftys: {
         api: 'https://www.fantuan.tv/api.php/provide/vod',
-        name: "饭团影视"
+        name: '饭团影视'
     },
     wwzy: {
         api: 'https://wwzy.tv/api.php/provide/vod',
-        name: "旺旺短剧"
+        name: '旺旺短剧'
     },
     aiduanju: {
         api: 'https://www.aiduanju.cc/',
-        name: "爱短剧"
+        name: '爱短剧'
     },
     moduapi: {
         api: 'https://caiji.moduapi.cc/api.php/provide/vod',
-        name: "魔都动漫"
+        name: '魔都动漫'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
