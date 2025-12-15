@@ -142,6 +142,10 @@ const API_SITES = {
         api: 'https://caiji.moduapi.cc/api.php/provide/vod',
         name: '魔都动漫'
     },
+    yaya: {
+        api: 'https://cj.yayazy.net/api.php/provide/vod/',
+        name: '丫丫点播'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
